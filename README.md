@@ -12,11 +12,6 @@
 [계획서 및 일정표](https://docs.google.com/spreadsheets/d/1fNIBv-oUIvZeVhuANIY_o--szHTX4OPn/edit#gid=2057609518)
 
 # [시연 영상](https://youtu.be/aCLqBQu-1W8)
-
----
-
-
-
 ---
 
 # 1. 기술 스택
