@@ -11,26 +11,27 @@
 
 # 1. 기술/구조
 * 웹 표준
-  _ HTML5
-  CSS3
-  JavaScript
-  jQuery
-  Bootstrap
-* TOMCAT 컨테이너 사용
-DBMS - MySQL
-Spring Framework
-JSP, EL
-MyBatis
-JPA
-다양한 Api 사용
-jQuery, aJax, JSON 파싱
-카카오 로그인 Api
-T-Map Api : 출발지-도착지 경로 검색기능 구현, GPS로 실시간 이동경로 체크기능 구현
-카카오페이 api
-Toss Api
-아임포트 api
-RESTful Api 구조
-서버 <--> 클라이언트 통신을 위한 REST 인터페이스 구현
-AWS 배포
-EC2
-RDS
+  * HTML5
+  * CSS3
+  * JavaScript
+  * jQuery
+  * Bootstrap
+* TOMCAT 
+* DBMS - MySQL
+* 사용 언어 및 프레임워크  
+  * Java
+  * Spring Framework
+  * JSP, EL
+  * Python
+ 
+* 다양한 Api 사용
+  * jQuery, aJax, JSON 파싱
+  * 카카오 맵 Api
+  * 지오로케이션 Api
+  * zxing api
+
+* RESTful Api 구조
+  * 서버 <--> 클라이언트 통신을 위한 REST 인터페이스 구현
+* AWS 배포
+  * EC2
+  * RDS
