@@ -1,6 +1,4 @@
 # withearth
-![슬라이드1](https://user-images.githubusercontent.com/71997976/111280498-40bc8f80-867f-11eb-9ad9-24bb369ef1ef.JPG)
-
  일회용 컵 대신 텀블러를 사용하고,
  가까운 거리는 자가용 대신 걸어서, 
 사용하지 않는 물건들은 다른 사람들에게 나누고,
