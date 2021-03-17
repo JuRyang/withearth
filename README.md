@@ -1,4 +1,6 @@
 # withearth
+![슬라이드1](https://user-images.githubusercontent.com/71997976/111418243-a4e85d80-872a-11eb-8da1-0792a4846437.JPG)
+
  일회용 컵 대신 텀블러를 사용하고,
  가까운 거리는 자가용 대신 걸어서, 
 사용하지 않는 물건들은 다른 사람들에게 나누고,
@@ -9,21 +11,28 @@
 
 [계획서 및 일정표](https://docs.google.com/spreadsheets/d/1fNIBv-oUIvZeVhuANIY_o--szHTX4OPn/edit#gid=2057609518)
 
-# 1. 기술/구조
+# [시연 영상](https://youtu.be/aCLqBQu-1W8)
+
+---
+
+
+
+---
+
+# 1. 기술 스택
 * 웹 표준
   * HTML5
   * CSS3
   * JavaScript
   * jQuery
   * Bootstrap
-* TOMCAT 
+* TOMCAT
 * DBMS - MySQL
-* 사용 언어 및 프레임워크  
+* 사용 언어 및 프레임워크
   * Java
   * Spring Framework
   * JSP, EL
   * Python
- 
 * 다양한 Api 사용
   * jQuery, aJax, JSON 파싱
   * 카카오 맵 Api
@@ -35,3 +44,13 @@
 * AWS 배포
   * EC2
   * RDS
+---
+# 2. 프로젝트 구조
+
+<img width="618" alt="22" src="https://user-images.githubusercontent.com/71997976/111417490-538b9e80-8729-11eb-95ee-a902e1ffd32a.PNG">
+
+
+
+# 3. 주요 구현 내용 및 화면 구성
+![슬라이드22](https://user-images.githubusercontent.com/71997976/111417623-9baac100-8729-11eb-8895-688bd0ea789b.JPG)
+
