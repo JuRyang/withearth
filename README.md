@@ -13,7 +13,20 @@
 
 # [시연 영상](https://youtu.be/aCLqBQu-1W8)
 
-# 1. 기술 스택
+
+
+# 1.담당 기능 기술 스택
+
+## 담당 기능
+* 텀블러 인증
+  * 큐알이미지 코드 구현
+  * 스캔 후 포인트 적립, 리스트 출력
+
+* 이용 가능 매장 리스트
+  * 카카오 맵 Api를 이용하여 지도 카페 마커 표시
+  * Geolocation을 이용하여 사용자 현재 위치 마커 표시 
+---
+
 * 웹 표준
   * HTML5
   * CSS3
@@ -52,6 +65,9 @@
 ![슬라이드17](https://user-images.githubusercontent.com/71997976/111431364-09151c80-873f-11eb-86a5-ed1a85c8baeb.JPG)
 ![슬라이드18](https://user-images.githubusercontent.com/71997976/111431376-0b777680-873f-11eb-9d6f-eb77b0820220.JPG)
 
+---
+
+# 4. 느낀 점
 
 
 
