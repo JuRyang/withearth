@@ -46,5 +46,12 @@
 
 
 # 3. 주요 구현 내용 및 화면 구성
-![슬라이드22](https://user-images.githubusercontent.com/71997976/111417623-9baac100-8729-11eb-8895-688bd0ea789b.JPG)
+![슬라이드22](https://user-images.githubusercontent.com/71997976/111417623-9baac100-8729-11eb-8895-688bd0ea789b.JPG){: width="100" height="100"}
+
+![슬라이드16](https://user-images.githubusercontent.com/71997976/111431349-061a2c00-873f-11eb-8d9d-9dd7c8152099.JPG)
+![슬라이드17](https://user-images.githubusercontent.com/71997976/111431364-09151c80-873f-11eb-86a5-ed1a85c8baeb.JPG)
+![슬라이드18](https://user-images.githubusercontent.com/71997976/111431376-0b777680-873f-11eb-9d6f-eb77b0820220.JPG)
+
+
+
 
